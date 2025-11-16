@@ -565,7 +565,7 @@ img {
 
 .subscribe-form {
   display: flex;
-  gap 24px;
+  gap: 24px;
 }
 
 .label-field-subscribe{
@@ -627,7 +627,7 @@ img {
 
 .item-svg {
   fill: #fff;
-  margin-left: 16px;
+  /* margin-left: 16px; */
 }
 
 .subscribe-email:focus {
